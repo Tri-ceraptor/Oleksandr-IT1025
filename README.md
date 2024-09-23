@@ -9,3 +9,7 @@ This repository contains a PDF file named: "PasswordLogic.pdf" which contains a 
 Python.png image is showing a Python program that checks if a number is greater than 100.
 
 OleksandrVykliukFlowerClass.pdf a file which contains a class description
+
+Flowers.py contains code of a Python programm.
+
+PythonOOP.png contains code of the programm and the output.
