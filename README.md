@@ -15,4 +15,4 @@ Flowers.py contains code of a Python programm.
 PythonOOP.png contains code of the programm and the output.
 
 Picture: NetworkDesign.png
-Description: The network diagram consists of various components including the Internet, Firewall, Router, Wireless Access Point, Laptop, Switch, and PC.
+Description: The network diagram consists of various components including the Internet, Firewall, Router, Wireless Access Point, Printer, Switch, and 2 PCs.
