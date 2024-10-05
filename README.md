@@ -16,3 +16,6 @@ PythonOOP.png contains code of the programm and the output.
 
 Picture: NetworkDesign.png
 Description: The network diagram consists of various components including the Internet, Firewall, Router, Wireless Access Point, Printer, Switch, and 2 PCs.
+
+Picture: SQLQuery.png
+Description: the image shows us a query that returns products which price is greater than 70, also it orders data returned by the price in descending order.
