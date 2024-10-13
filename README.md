@@ -19,3 +19,5 @@ Description: The network diagram consists of various components including the In
 
 Picture: SQLQuery.png
 Description: the image shows us a query that returns products which price is greater than 70, also it orders data returned by the price in descending order.
+
+Image of the code: MyHTML.png
